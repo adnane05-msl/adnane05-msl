@@ -12,12 +12,12 @@
 </p> 
 
   •🎓 Étudiant en Informatique | Passionné par le Développement Web & la Programmation.  
-  •📚 Je suis actuellement étudiant en 2e année de filière informatique au Maroc. j'apprends activement le HTML, le CSS, le langage C, C++, Python, et récemment JavaScript             et react.js  
+  •📚 Je suis actuellement étudiant en 2e année de filière informatique au Maroc. j'apprends activement le HTML, le CSS, le langage C, C++, Python, et récemment JavaScript                 et react.js  
   •🚀 J'ai déjà réalisé plusieurs projets personnels, dont :  
-         🌐 Un site web en HTML/CSS .  
-         💻 Un programme de gestion de magasin en langage C .  
+             🌐 Un site web en HTML/CSS .  
+             💻 Un programme de gestion de magasin en langage C .  
   
-  •🔍 Je m'intéresse particulièrement au développement web et j'aime comprendre les choses en profondeur. Mon objectif est de continuer à apprendre, créer, et partager mes             projets ici sur GitHub.
+  •🔍 Je m'intéresse particulièrement au développement web et j'aime comprendre les choses en profondeur. Mon objectif est de continuer à apprendre, créer, et partager mes projets ici sur GitHub.
 
 
 ### Connect with Me :
