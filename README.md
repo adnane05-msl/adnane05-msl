@@ -12,17 +12,17 @@
 </p> 
 
   •🎓 Étudiant en Informatique | Passionné par le Développement Web & la Programmation.  
-  •📚 Je suis actuellement étudiant en 2e année de filière informatique au Maroc. j'apprends activement le HTML, le CSS, le langage C, C++, Python, et récemment JavaScript                 et react.js  
-  •🚀 J'ai déjà réalisé plusieurs projets personnels, dont :  
-             🌐 Un site web en HTML/CSS .  
-             💻 Un programme de gestion de magasin en langage C .  
+  •📚 Je suis actuellement étudiant en 2e année de filière informatique au Maroc. j'apprends activement le HTML, le CSS, le langage C, C++, Python, et récemment JavaScript et react.js  
+  •🚀 J'ai déjà réalisé plusieurs projets personnels, dont :     
+        🌐 Un site web en HTML/CSS .  
+        💻 Un programme de gestion de magasin en langage C .  
   
   •🔍 Je m'intéresse particulièrement au développement web et j'aime comprendre les choses en profondeur. Mon objectif est de continuer à apprendre, créer, et partager mes projets ici sur GitHub.
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/adnane-msillane-8a92b5347/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adnane-msillane-8a92b5347/" target="_blank"><img src="https://img.shields.io/badge/Adnane%20Msillane-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
